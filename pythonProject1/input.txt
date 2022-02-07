@@ -1,0 +1,15 @@
+ int lel[40];
+char  m [2];
+double pip [1];
+long double lal [9999];
+long   int f [8][555];
+int long l0;
+int doubles [1];
+char char1;
+int ints [1];
+int lomgs[1];
+double ints1[5];
+int intintt;
+short int intl;
+long int intm;
+long double intq;
